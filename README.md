@@ -8,7 +8,7 @@
 ORCAサーバから api を介して受付患者のリストを取得しますので、ORCA 必須。  
 
 古林先生の環境とは若干異なり  
-MacOS monterery  postgresql12  PHP8.1 cakePHP4.2
+MacOS monterery  postgresql12  PHP8.1 cakePHP4.2  
 で試験的に動かしたところ、問題なく動きました。  
 PHP に OS 依存はほとんどないはずなので、win でも動くと思います。  
 
